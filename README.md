@@ -86,4 +86,4 @@ cargo run
 
 ## Examples
 
-- [ailia_yolox_rust](https://github.com/axinc-ai/ailia_yolox_rust)
+- [ailia_yolox_rust](https://github.com/ailia-ai/ailia_yolox_rust)
